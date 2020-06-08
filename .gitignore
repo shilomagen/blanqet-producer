@@ -6,5 +6,5 @@ blanqet-producer.pem
 !.elasticbeanstalk/*.global.yml
 
 .idea
-env
+virt
 
